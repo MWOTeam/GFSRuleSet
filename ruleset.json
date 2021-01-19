@@ -1,6 +1,6 @@
 [
   {
-    "Status": 3,
+    "Status": 0,
     "Path": "speed.exe",
     "AdditionalPaths": null,
     "ActionMessage": "Couldn\u0027t find the game executable! Are you sure you\u0027re running this launcher from the right directory?"
