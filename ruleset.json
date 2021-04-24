@@ -43,7 +43,10 @@
     "Status": 3,
     "Path": "scripts/VerbleHack.asi",
     "AdditionalPaths": [
-      "./VerbleHack.asi"
+      "./VerbleHack.asi",
+      "./MWHook.asi",
+      "./mods/VerbleHackNFSMW5.dll",
+      "./scripts/MWHook.asi"
     ],
     "ActionMessage": "VerbleHack is a cheat. Whether you left it there by accident or installed it on purpose, please delete VerbleHack before proceeding."
   },
