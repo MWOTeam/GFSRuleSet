@@ -24,12 +24,12 @@
     "ActionMessage": "There seems to be a foreign d3d9.dll present in the game folder. We don\u0027t guarantee MWO will work properly with this. Consider deleting d3d9.dll."
   },
   {
-    "Status": 2,
+    "Status": 3,
     "Path": "scripts/NFSMWExtraOptions.asi",
     "AdditionalPaths": [
       "./NFSMWExtraOptions.asi"
     ],
-    "ActionMessage": "NFSMW Extra Options modifies the game code in ways that break some MWO features, such as speedtrap leaderboards. Those features will not function while ExOpts is installed.\nDelete NFSMW Extra Options?"
+    "ActionMessage": "NFSMW Extra Options modifies the game code in ways that break MWO. Some of the more common features of this mod have been added into MWO, such as the debug world camera, but NFSMW ExOpts itself can cause massive problems such as frequent crashes. Please delete NFSMW Extra Options before proceeding."
   },
   {
     "Status": 3,
