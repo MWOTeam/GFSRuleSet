@@ -57,5 +57,13 @@
       "./RockportEd.asi"
     ],
     "ActionMessage": "RockportEd uses MirrorHook and thus does not support MWO. Please delete RockportEd before proceeding."
+  },
+  {
+    "Status": 3,
+    "Path": "scripts/NFSMW2005_widescreen_fix.asi",
+    "AdditionalPaths": [
+      "./NFSMW2005_widescreen_fix.asi"
+    ],
+    "ActionMessage": "You are using a very old version of the NFSMW Widescreen Fix. It probably came with your MW repack. MWO does NOT support this version and it was proven to cause tons of weird crashes and other issues, especially when installed alongside other mods. We advise you to download ThirteenAG's Widescreen Fix instead. Please delete the old Widescreen Fix before processing."
   }
 ]
