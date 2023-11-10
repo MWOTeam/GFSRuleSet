@@ -18,12 +18,6 @@
     "ActionMessage": "Couldn\u0027t find the game world files! Your MW installation is either corrupt or you\u0027re trying to install MWO onto a pre-V3 installation package [that is, without the actual game]. Please reinstall the game or put the launcher in your actual game folder."
   },
   {
-    "Status": 1,
-    "Path": "d3d9.dll",
-    "AdditionalPaths": null,
-    "ActionMessage": "There seems to be a foreign d3d9.dll present in the game folder. We don\u0027t guarantee MWO will work properly with this. Consider deleting d3d9.dll."
-  },
-  {
     "Status": 3,
     "Path": "scripts/NFSMWExtraOptions.asi",
     "AdditionalPaths": [
