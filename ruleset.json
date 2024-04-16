@@ -54,6 +54,14 @@
   },
   {
     "Status": 3,
+    "Path": "scripts/ZMenuMW.asi",
+    "AdditionalPaths": [
+      "./ZMenuMW.asi"
+    ],
+    "ActionMessage": "Your game copy contains incompatible mods. Please delete them before proceeding."
+  },
+  {
+    "Status": 3,
     "Path": "scripts/NFSMW2005_widescreen_fix.asi",
     "AdditionalPaths": [
       "./NFSMW2005_widescreen_fix.asi"
