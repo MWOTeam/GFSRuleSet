@@ -3,7 +3,7 @@
     "Status": 0,
     "Path": "speed.exe",
     "AdditionalPaths": null,
-    "ActionMessage": "Couldn\u0027t find the game executable! Are you sure you\u0027re running this launcher from the right directory?"
+    "ActionMessage": "Couldn\u0027t find the game executable! Are you sure you\u0027re running this launcher from the right directory? Note that you MUST install MWO on top of an INSTALLED game copy."
   },
   {
     "Status": 0,
@@ -24,6 +24,14 @@
       "./NFSMWExtraOptions.asi"
     ],
     "ActionMessage": "NFSMW Extra Options modifies the game code in ways that break MWO. Some of the more common features of this mod have been added into MWO, such as the debug world camera, but NFSMW ExOpts itself can cause massive problems such as frequent crashes. Please delete NFSMW Extra Options before proceeding."
+  },
+  {
+    "Status": 3,
+    "Path": "scripts/MWOExtraOptions.asi",
+    "AdditionalPaths": [
+      "./MWOExtraOptions.asi"
+    ],
+    "ActionMessage": "MWO Extra Options is an outdated addon for MWO with features that conflict with the latest MWO releases. Most of its features have already been added into the MWO client itself. Please delete MWO Extra Options before proceeding."
   },
   {
     "Status": 3,
